@@ -1,2 +1,2 @@
 # landscape_classifier
-A multi-classification deep learning neural net on Intel Image Classification Dataset 
+A multi-class classification Convolutional Neural Net(CNN) on Intel Image Classification Dataset.
